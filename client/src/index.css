@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.mansory_column_class_name {
+    @apply w-full space-y-4;
+}
